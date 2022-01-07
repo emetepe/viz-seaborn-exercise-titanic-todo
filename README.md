@@ -1,3 +1,3 @@
 ## VISUALIZATION SEABORN EXERCISE
 
-Complete notebook exercises
+Marta Pérez Romero (marta.perez.ds@immune.institute)
